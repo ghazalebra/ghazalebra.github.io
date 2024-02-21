@@ -1,4 +1,4 @@
-ilsi: false
+iilsi: false
 safe: true 
 incremental: false
 highlighter: rouge
@@ -7,4 +7,4 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-ARCHITECT
+theme: jekyll-theme-minimal
