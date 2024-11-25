@@ -12,5 +12,5 @@
 - I worked on improving the robustness of the self-distillation network against adversarial attacks.
 
 ## Education							       		
-M.S., Computer Engineering | Polytechnic School of the University of Montreal (2021-2023)	 			        		
-B.S., Computer Engineering | Sharif Univesity of Technology (2015-2020)
+- M.S., Computer Engineering | Polytechnic School of the University of Montreal (2021-2023)	 			        		
+- B.S., Computer Engineering | Sharif Univesity of Technology (2015-2020)
